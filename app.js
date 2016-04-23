@@ -1,1 +1,2 @@
-alert('coucou');
+alert('bonjour');
+console.log('Salut');
